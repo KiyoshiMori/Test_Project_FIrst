@@ -1,0 +1,7 @@
+##Unreal:##
+Content/
+/Binaries
+/Intermediate
+/Saved
+##Visual Studio##
+*.VC.db
